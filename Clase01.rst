@@ -64,7 +64,7 @@ Herramientas de trabajo
 Durante el cuatrimestre se utilizarán herramientas profesionales de desarrollo.
 
 GitHub
-------
+======
 
 Cada equipo deberá:
 
@@ -80,7 +80,7 @@ La rama principal representará siempre el **sistema funcionando**.
 
 
 Visual Studio Code y Copilot
-----------------------------
+============================
 
 Cada estudiante deberá contar con acceso a **GitHub Copilot**.
 
@@ -96,7 +96,7 @@ El objetivo del curso es aprender a:
 
 
 Servidor en la nube
--------------------
+===================
 
 Cada equipo deberá contratar un **servidor en la nube** para ejecutar su proyecto.
 
@@ -115,7 +115,7 @@ Este servidor deberá permanecer activo durante el cuatrimestre.
 
 
 Dominio propio
---------------
+==============
 
 Cada equipo deberá registrar un **dominio propio en NIC.AR**.
 
@@ -128,26 +128,26 @@ Proyecto integrador
 Cada equipo desarrollará un sistema completo compuesto por varias partes.
 
 Frontend
---------
+========
 
 - React
 - TypeScript
 - Ant Design
 
 Backend
--------
+=======
 
 - API REST desarrollada con **FastAPI**
 
 Infraestructura
----------------
+==============
 
 - Servidor en la nube
 - Dominio propio
 - Sistema accesible públicamente
 
 Cliente Desktop
----------------
+===============
 
 Cada proyecto deberá incluir además una **aplicación desktop desarrollada en C++ utilizando Qt**.
 
@@ -199,7 +199,7 @@ Evaluaciones
 La materia tendrá dos instancias evaluativas principales.
 
 Regularidad, promoción y coloquio
----------------------------------
+=================================
 
 - La materia se promociona bajo la modalidad de la UBP.
 - El coloquio se debe rendir dentro del cursado de la materia, no en una fecha de examen final.
@@ -207,7 +207,7 @@ Regularidad, promoción y coloquio
 - Los temas del coloquio se acuerdan con anticipación.
 
 Comunicaciones
---------------
+==============
 
 :Meet y WhatsApp para comunicaciones:
     - `https://meet.google.com/vyf-bsai-uvq <https://meet.google.com/vyf-bsai-uvq>`_
@@ -221,7 +221,7 @@ Comunicaciones
 
 
 Primer parcial (individual)
----------------------------
+===========================
 
 Cada estudiante deberá desarrollar una **aplicación desktop en C++ utilizando Qt**.
 
@@ -243,7 +243,7 @@ Se evaluará:
 
 
 Segundo parcial (proyecto integrador)
--------------------------------------
+========================================
 
 Cada equipo presentará su **proyecto completo**.
 
@@ -270,13 +270,13 @@ Examen final
 El examen final tendrá dos partes.
 
 Parte práctica
---------------
+==============
 
 Resolución de **desafíos de programación en C++**.
 
 
 Parte oral
-----------
+==========
 
 Explicación de conceptos teóricos como:
 
@@ -291,7 +291,7 @@ Instalación de herramientas
 ===========================
 
 Qt
---
+==
 
 Instalar:
 
@@ -301,7 +301,7 @@ Instalar:
 
 
 OpenSSL
--------
+=======
 
 Descargar instalador desde:
 
@@ -343,6 +343,6 @@ Para la próxima clase cada equipo deberá:
 1) Formar el **grupo de trabajo**  
 2) Crear el **repositorio en GitHub**  
 3) Agregar al docente como colaborador  
-4) Comenzar a definir la **idea del proyecto del grupo**
+4) Definir la **idea del proyecto del grupo** con las opciones que menciona el docente
 
 Durante las próximas clases comenzaremos a desarrollar aplicaciones en **C++ y Qt**, incorporando progresivamente los conceptos de **Programación Orientada a Objetos**.
