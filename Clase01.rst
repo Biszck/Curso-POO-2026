@@ -8,7 +8,7 @@ Temas de la clase
 
 - Concepto general de la materia
 - Equipos de trabajo
-- Herramientas de trabajo (GitHub, VS Code y Copilot, servidor en la nube, dominio propio)
+- Herramientas de trabajo (GitHub, VS Code y Copilot, Qt, servidor en la nube, dominio propio)
 - Proyecto integrador
 - Enfoque de aprendizaje
 - Contenidos centrales y evaluaciones
@@ -93,6 +93,18 @@ El objetivo del curso es aprender a:
 - corregirlo
 - mejorarlo
 - integrarlo en sistemas reales
+
+
+Herramientas de desarrollo C++ y Qt (Desktop)
+=============================================
+
+Se utilizarán herramientas específicas para desarrollo de aplicaciones desktop:
+
+- Biblioteca estándar de C++
+- Compilador **MinGW**
+- Biblioteca **Qt**
+- **Qt Creator**
+- Copilot integrado en Qt Creator
 
 
 Servidor en la nube
