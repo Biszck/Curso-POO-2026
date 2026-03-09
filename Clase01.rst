@@ -52,7 +52,7 @@ Los estudiantes deberán organizarse en **equipos de trabajo**.
 Condiciones:
 
 - Los equipos serán de **3 estudiantes**.
-- Solo podrá haber un único **equipo de 2 estudiantes** si la cantidad total de alumnos **no es divisible por 3**.
+- Solo en caso de que la cantidad total de alumnos no permita formar únicamente equipos de tres, se permitirá uno o dos equipos de dos estudiantes.
 - Cada equipo tendrá **un proyecto propio**.
 
 Los equipos deben quedar definidos durante las **primeras clases**.
@@ -355,6 +355,7 @@ Para la próxima clase cada equipo deberá:
 1) Formar el **grupo de trabajo**  
 2) Crear el **repositorio en GitHub**  
 3) Agregar al docente como colaborador  
-4) Definir la **idea del proyecto del grupo** con las opciones que menciona el docente
+4) Definir la **idea del proyecto del grupo** con las opciones que menciona el docente  
+5) Instalar **Qt Creator**, la **biblioteca Qt** y **MinGW 64-bit**
 
 Durante las próximas clases comenzaremos a desarrollar aplicaciones en **C++ y Qt**, incorporando progresivamente los conceptos de **Programación Orientada a Objetos**.
