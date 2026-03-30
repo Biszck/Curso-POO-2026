@@ -5,6 +5,10 @@
 Registro en video de algunos temas de la clase de hoy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+
+`string punteros QApplication QWidget signal slots - 2026 <https://youtu.be/BlGPW6Bcrv0>`_ 
+
 `Función genérica - arrays - string - punteros 2022 <https://www.youtube.com/watch?v=gdrMyvjf7M4>`_ 
 
 `getDatos de Poste - Convenciones 2021 <https://www.youtube.com/watch?v=7l0QZzqbQjI>`_
