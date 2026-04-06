@@ -8,77 +8,7 @@ Registro en video de algunos temas de la clase de hoy
 
 `Fución genérica - signals y slots - empty project 2025 <https://youtu.be/wnkHlGuUZZQ>`_ 
 
-`Función genérica 2021 <https://www.youtube.com/watch?v=PkmAW31KuV0>`_ 
-
 `Dibujar a mano - QByteArray - Preprocesador 2021 <https://www.youtube.com/watch?v=8Gu5_ejipus>`_
-
-
-
-Función Genérica
-================
-
-- Supongamos que debemos implementar una función que imprima en la salida los valores de un array de enteros:
-
-.. code-block:: cpp
-
-	void imprimir ( int v[], int cantidad )  {
-	    for ( int i = 0 ; i < cantidad ; i++ )
-	        std::cout << v[ i ] << " ";
-	    std::cout << std::endl;
-	}
-
-	int main( int, char ** )  {
-	    int v1[ 5 ] = { 5, 2, 4, 1, 6 };
-	    imprimir( v1, 3 );
-
-	    return 0;
-	}
-
-- Ahora necesitamos la impresión de un array de float
-
-.. code-block:: cpp
-
-	void imprimir( float v[], int cantidad );
-
-- Vemos que las versiones se diferencian por el tipo de datos del array. Entonces podemos utilizar lo siguiente:
-
-.. code-block:: cpp
-
-	template < class T > void imprimir ( T v[], int cantidad )  {
-	    for ( int i=0 ; i < cantidad ; i++ )
-	        std::cout << v[ i ] << " ";
-	    std::cout << std::endl;
-	}
-
-	int main( int, char ** )  {
-	    int v1[ 5 ] = { 5, 2, 4, 1, 6 };
-	    float v2[ 4 ] = { 2.3, 5.1, 0, 2 };
-
-	    imprimir( v1, 5 );  // qué pasa si pongo cantidad 10 -> Publica basura
-	    imprimir( v2, 2 );
-
-	    return 0;
-	}
-
-- El compilador utiliza el código de la función genérica como plantilla para crear automáticamente dos funciones sustituyendo T por el tipo de dato concreto.
-
-.. code-block:: cpp
-
-	Con T = int     utiliza -->     void imprimir( int v[], int cantidad )
-
-	Con T = float   utiliza -->     void imprimir( float v[], int cantidad )
-
-- Aquí, la única operación que realizamos sobre los valores de tipo T es:
-
-.. code-block:: cpp
-
-	std::cout << v[ i ]
-
-- Esto pone una restricción, ya que sólo se admitirá los tipos de datos para los que se puedan imprimir en pantalla con:
-
-.. code-block:: cpp
-
-	std::cout <<
 
 
 
