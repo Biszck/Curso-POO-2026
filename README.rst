@@ -21,12 +21,6 @@ Objetivos principales:
 - Usar herramientas actuales de la industria (GitHub, VS Code, Qt, Copilot).
 - Desarrollar autonomía para aprender con documentación técnica.
 
-Clases 2026
-===========
-
-Las clases se publican el día de dictado. Aquí se listan solo las clases ya realizadas.
-
-- `Clase 01 - 9 de marzo de 2026 <Clase01.rst>`_
 
 Temas principales
 =================
