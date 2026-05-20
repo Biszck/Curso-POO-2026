@@ -252,6 +252,7 @@ Próximos pasos para cerrar la asignatura
 - El desarrollo del primer parcial se entrega en el sistema de autocorrección y otorga una nota del 0 al 8.
 - En el oral se tratarán los temas que figuran en `Temas para examen <https://github.com/cosimani/Curso-POO-2026/blob/main/ExamenFinal.rst>`_
 - La programación en vivo es el desarrollo del Login con o sin QtDesigner. El docente elige cuál de las dos.
+- Para la presentación de GitHub individual se pedirá que se clone y se haga push desde consola.
 - Lunes 8 de junio se presentan todos los proyectos.
 - El proyecto se evaluará con esta `Rúbrica para Trabajo Integrador <https://docs.google.com/spreadsheets/d/1hIZHseh0gT1SujRvPCBrctL8YzdA9tgLtqfP3rcKYeo/edit?usp=drive_link>`_ 
 - Preparar una presentación de 10 minutos para la exposición del proyecto.
