@@ -240,3 +240,21 @@ const en clases
 	    }
 	};
 
+
+
+
+Próximos pasos para cerrar la asignatura
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Miércoles 27 de mayo finalizamos con los temas de la asignatura y hacemos simulacro del primer parcial.
+- Lunes 1 de junio es el primer parcial.
+- Miércoles 3 de junio es el oral del primer parcial, la programación en vivo del Login y presentación de GitHub individual.
+- El desarrollo del primer parcial se entrega en el sistema de autocorrección y otorga una nota del 0 al 8.
+- En el oral se tratarán los temas que figuran en `Temas para examen <https://github.com/cosimani/Curso-POO-2026/blob/main/ExamenFinal.rst>`_
+- La programación en vivo es el desarrollo del Login con o sin QtDesigner. El docente elige cuál de las dos.
+- Lunes 8 de junio se presentan todos los proyectos.
+- El proyecto se evaluará con esta `Rúbrica para Trabajo Integrador <https://docs.google.com/spreadsheets/d/1hIZHseh0gT1SujRvPCBrctL8YzdA9tgLtqfP3rcKYeo/edit?usp=drive_link>`_ 
+- Preparar una presentación de 10 minutos para la exposición del proyecto.
+- Usen los recursos que quieran para la presentación (diapositivas, videos, demostración en vivo, código, etc).
+
+
